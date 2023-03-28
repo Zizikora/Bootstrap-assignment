@@ -1,0 +1,44 @@
+.p2{
+    padding-top: 50px;
+     margin-top: 50px;
+     padding-bottom: -50px;
+     margin-bottom: -50px;
+    }
+
+    .button{
+    background-color: black;
+    }
+
+    .block{
+        text-align: center;
+        background-color:#1F79FD;
+        color: #fff;
+        margin: -23px;
+        height: 178px;
+        padding-top:30px;
+    }
+
+.about{
+margin-top: 85px;
+padding-left: 170px;
+}
+
+.Services{
+    margin-top: 85px;
+    background-color: rgb(244, 244, 244);
+    height: 178px;
+    padding-left: 170px;
+    }
+
+    .Contact{
+        margin-top: 85px;
+        padding-left: 170px;
+        }
+
+        .footer{
+            background-color: black;
+            color: #fff;
+            text-align: center;
+            height: 123px;
+            padding-top:54px;
+        }
