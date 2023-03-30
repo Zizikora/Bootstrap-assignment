@@ -52,6 +52,15 @@ padding-left: 170px;
     padding-left: 170px;
     }
 
+    .Information{
+        margin-top: 85px;
+        padding-left: 170px;   
+    }
+
+    .Info{
+    font-weight: bold;
+    }
+
     .Contact{
         margin-top: 85px;
         padding-left: 170px;
