@@ -1,0 +1,44 @@
+.nav-text{
+    text-align: center;
+}
+
+.colors{
+    background-color: rgb(173, 252, 255);
+    height: 20p;
+}
+
+.color2{
+    background-color: rgb(175, 151, 255);
+}
+
+.color3{
+    background-color: rgb(241, 188, 255);
+}
+
+.col-lg-2{
+    background-color: rgb(255, 214, 246);
+}
+
+.col-lg-8{
+    background-color: rgb(255, 232, 210);
+
+}
+
+.col-lg-7{
+    background-color: rgb(20, 255, 216);
+}
+
+
+.col-lg-3{
+    background-color: rgb(255, 148, 148);
+}
+
+.Table{
+    background-color: #cae6ff;
+}
+
+.button{
+    background-color: rgb(38, 73, 246);
+    color: #fff;
+    border-radius: 15%;
+}
